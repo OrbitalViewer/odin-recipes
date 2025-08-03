@@ -12,7 +12,7 @@ This project was about creating a recipes website using pure html. In doing so I
 - Basic html structure
 - Paragraphs, strong tags, b tags, etc.
 - Frankly too many lists
-- An I also think I succeeded in writing decent commit messages
+- And I also think I succeeded in writing decent commit messages
 
 **Things I could improve on:**
 
