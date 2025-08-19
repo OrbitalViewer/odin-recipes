@@ -20,3 +20,7 @@ This project was about creating a recipes website using pure html. In doing so I
   - I would need feedback to get a better idea
 - The biggest thing is that I am lazy, I wrote the first recipe page entirely by hand, got annoyed and then used ChatGPT to generate the other two for completions sake.
   - Of course it would have been better practice to write the other two as well but as I said, I am lazy + I am somewhat pressed for time
+
+**Adding CSS**
+
+After completing some of the CSS lessons, I have been instructed to come back and add some CSS to make this website actually look like something.
