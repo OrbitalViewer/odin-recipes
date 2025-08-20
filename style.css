@@ -1,0 +1,57 @@
+body {
+  background-color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.content {
+  padding: 10px;
+  max-width: 70vw;
+  margin: auto;
+  background-color: bisque;
+  border: 2px solid black;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+#author {
+  margin-top: -24px;
+}
+
+.page-content {
+  padding: 0px 20px;
+}
+
+.top-border {
+  border-top: 2px solid black;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+a {
+  color: black;
+}
+
+.home-link {
+  text-align: center;
+  border-top: 2px solid black;
+  padding-top: 28px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 40vw;
+  margin: 0 auto;
+}
